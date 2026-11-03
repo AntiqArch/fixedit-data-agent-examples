@@ -7,6 +7,8 @@ This directory contains a complete system monitoring stack designed to work with
 ## Table of Contents
 
 <!-- toc -->
+<details>
+<summary> Hide / Show table </summary>
 
 - [What This Stack Provides](#what-this-stack-provides)
 - [The Database and Query Language](#the-database-and-query-language)
@@ -29,6 +31,7 @@ This directory contains a complete system monitoring stack designed to work with
 - [Helper Scripts](#helper-scripts)
 
 <!-- tocstop -->
+</details>
 
 ## What This Stack Provides
 
